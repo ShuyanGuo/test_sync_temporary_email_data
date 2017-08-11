@@ -421,7 +421,7 @@
             ],
 			"RegexIdsByExactDomain" : [
                 {
-					"Key": "infoooooooooooooooooooooooooaaaao.lazada.com.ph",
+					"Key": "info.lazada.com.ph",
 																						
 					"Value": [
                         "reply\\.email-.{24}"
