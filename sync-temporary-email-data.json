@@ -8,7 +8,7 @@
                 {
 					"Key": "reply.craigslist.org",
 					"Value" : [
-						"^.{35}$"
+						"^.{36}$"
 					]
 				}
 			],
